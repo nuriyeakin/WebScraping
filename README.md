@@ -1,7 +1,7 @@
 # WebScraping
 
 
-I will try to improve myself on web scraping, and I will share my codes on this repo. 
+I will try to improve myself on web scraping, and I will share my journey on this repo. 
 
 I am really excited :)
 
